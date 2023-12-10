@@ -1,0 +1,2 @@
+＠homeurl
+https://raw.githubusercontent.com/Shimofumi/Oyatsu_ha_Macaroni/main
