@@ -7,8 +7,14 @@ https://raw.githubusercontent.com/Shimofumi/Oyatsu_ha_Macaroni/main/
 ＊OnUpdateReady
 \1\s[10] ｆile's Update.\e
 
+＊OnUpdateComplete
+\1\s[10] Update Complete.\e
+
+＊ネットワーク更新none
+\1\s[10]更新されてないみたいっすね。\e
+
 ＊OnUpdateFailure
-\1\s[10]Update Failure.\n\n（Reference0）\e
+\1\s[10]Update Failure.\e
 
 ＊ネットワーク更新timeout
 \1\s[10]タイムアウトした……。\e
