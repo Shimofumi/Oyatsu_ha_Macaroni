@@ -2,7 +2,7 @@ charset,UTF-8
 file,.gitattributesdcb240655dcbf79b8706d11c8c2a169csize=68date=2012-12-21T00:00:00
 file,ghost/master/descript.txt530a17cdc70976d7f4473668e566031esize=265date=2012-12-21T00:00:00
 file,ghost/master/dic_boot_and_end.txtfeb5a9ce4ed9831a9ea17af47a8bb913size=1061date=2012-12-21T00:00:00
-file,ghost/master/dic_homeurl.txt135b730286a35d7c14b13f7a34193865size=534date=2012-12-21T00:00:00
+file,ghost/master/dic_homeurl.txtf9c54fda5dc70d9238c49d961a20fb3csize=655date=2012-12-21T00:00:00
 file,ghost/master/dic_input.txt5e53b9f6f9ff86183e4ddd779e736424size=1142date=2012-12-21T00:00:00
 file,ghost/master/dic_menu.txtd83ef590cb61eb7648a43a909f8161c0size=1468date=2012-12-21T00:00:00
 file,ghost/master/dic_mouse.txt2684d8915c45b4a5d1af7341604d9c56size=4463date=2012-12-21T00:00:00
