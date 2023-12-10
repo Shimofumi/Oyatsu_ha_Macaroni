@@ -1,0 +1,11 @@
+charset,UTF-8
+readme.charset,UTF-8
+type,ghost
+
+name,続・マカロニの3時10分、おやつの時
+craftmanw,unkoisunko
+sakura.name,Cole
+kero.name,Siga
+
+
+shiori,satori.dll

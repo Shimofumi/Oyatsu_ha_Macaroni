@@ -1,0 +1,17 @@
+charset,Shift_JIS
+name,master
+id,master
+type,shell
+
+craftmanw,inuta_bakin
+
+seriko.use_self_alpha,1
+
+kero.balloon.alignment,right
+
+kero.balloon.offsety,100
+
+sakura.seriko.alignmenttodesktop,bottom
+
+
+kero.seriko.alignmenttodesktop,bottom
