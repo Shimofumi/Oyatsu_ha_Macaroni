@@ -1,2 +1,20 @@
 ＠homeurl
 https://raw.githubusercontent.com/Shimofumi/Oyatsu_ha_Macaroni/main/
+
+＊OnUpdateBegin
+\1\s[10]Update Now！\w3
+
+＊OnUpdateReady
+\1\s[10] ｆile's Update.\e
+
+＊OnUpdateFailure
+\1\s[10]Update Failure.\n\n（Reference0）\e
+
+＊ネットワーク更新timeout
+\1\s[10]タイムアウトした……。\e
+
+＊ネットワーク更新md5 miss
+\1\s[10]md5が一致しませんでした……。\w5\n\s[10]Hmm……作者に要連絡っすね。\e
+
+＊ネットワーク更新404
+\1\s[10]404 Not Found。\e
