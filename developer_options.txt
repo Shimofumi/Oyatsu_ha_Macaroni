@@ -1,6 +1,7 @@
 .git/,noupdate,nonar
 .github/,noupdate,nonar
 .gitignore,noupdate,nonar
+.gitattributes,noupdate,nonar
 developer_options.txt,noupdate,nonar
 md5buildignore.txt,noupdate,nonar
 README.md,noupdate,nonar
