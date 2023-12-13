@@ -11,7 +11,7 @@ file,ghost/master/satori_conf.txt5bc8d7909d6ad56c1be6ae3fafa33a6asize=84date=
 file,ghost/master/satori_license.txt08c2c47b7be6800fb82870c74a9d0cb4size=1355date=2012-12-21T00:00:00
 file,ghost/master/satori_savebackup.txt1dcc99dfaa691065cb94abd9e5858070size=190date=2012-12-21T00:00:00
 file,ghost/master/satori_savedata.txt6c188685a2b1e85d71cd44ab44d72fadsize=190date=2012-12-21T00:00:00
-file,install.txt865738e96f7f40899bde096fb46d8aaasize=116date=2012-12-21T00:00:00
+file,install.txte5fa2183a03d43a5eb86b43e9ac4e161size=110date=2012-12-21T00:00:00
 file,readme.txt42b0e1c865d8b6aa597fb40967afdb87size=349date=2012-12-21T00:00:00
 file,shell/master/descript.txtbd1c7796330acfd730110e3069999c07size=236date=2012-12-21T00:00:00
 file,shell/master/surface0.png8cde439513e76e71cbdd9db27cc5fc45size=31917date=2012-12-21T00:00:00
