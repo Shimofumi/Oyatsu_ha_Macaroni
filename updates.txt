@@ -1,5 +1,5 @@
 charset,UTF-8
-file,ghost/master/descript.txt96b6b2630f315f1c2172593769771f89size=252date=2012-12-21T00:00:00
+file,ghost/master/descript.txt25f3c0e2cda6366c82ed3de632092251size=324date=2012-12-21T00:00:00
 file,ghost/master/dic_boot_and_end.txt35a2ae3b15ac3253b273d133aa0d4896size=1032date=2012-12-21T00:00:00
 file,ghost/master/dic_homeurl.txta1522a304945fbcf6e95eb120f68228asize=629date=2012-12-21T00:00:00
 file,ghost/master/dic_input.txt2ac375fb2f728233391dba1372199731size=1114date=2012-12-21T00:00:00
@@ -13,7 +13,7 @@ file,ghost/master/satori_savebackup.txt1dcc99dfaa691065cb94abd9e5858070size=19
 file,ghost/master/satori_savedata.txt6c188685a2b1e85d71cd44ab44d72fadsize=190date=2012-12-21T00:00:00
 file,install.txte5fa2183a03d43a5eb86b43e9ac4e161size=110date=2012-12-21T00:00:00
 file,readme.txt42b0e1c865d8b6aa597fb40967afdb87size=349date=2012-12-21T00:00:00
-file,shell/master/descript.txtbd1c7796330acfd730110e3069999c07size=236date=2012-12-21T00:00:00
+file,shell/master/descript.txt80bbc594f8a5a20eaf1d9b312ac45acasize=428date=2012-12-21T00:00:00
 file,shell/master/surface0.png8cde439513e76e71cbdd9db27cc5fc45size=31917date=2012-12-21T00:00:00
 file,shell/master/surface1.pngfcdf804a4a934d51acfce3b37a5e36fdsize=32267date=2012-12-21T00:00:00
 file,shell/master/surface10.pngdcb9254efa518f0f6665725436562633size=49564date=2012-12-21T00:00:00
@@ -27,6 +27,6 @@ file,shell/master/surface17.png1a36224931db75e49123a258b72ac5a4size=49507date
 file,shell/master/surface18.png76dd7d3191492add255a849d2a2693e1size=49665date=2012-12-21T00:00:00
 file,shell/master/surface19.pngf877a4eed62836f4781d8ed070597e7esize=49806date=2012-12-21T00:00:00
 file,shell/master/surface2.png08e431425ada7140c5f2dcbcfc9ff5adsize=32086date=2012-12-21T00:00:00
-file,shell/master/surfaces.txt2307bf9616e8a316a6dbebd67aacfefbsize=374date=2012-12-21T00:00:00
-file,shell/master/surfacetable.txtd8af8bdc0b1d1559b38bcc84b982a28bsize=240date=2012-12-21T00:00:00
+file,shell/master/surfaces.txt6dde9772ec0daea5106b4143a93fdd97size=370date=2012-12-21T00:00:00
+file,shell/master/surfacetable.txt0bbc9104cb6f8a3b0f90fe21c8ba7fb8size=293date=2012-12-21T00:00:00
 file,shell/master/thumbnail.png5e4424b1e78681e0bdd970b7bc63b6fbsize=47504date=2012-12-21T00:00:00
