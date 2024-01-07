@@ -5,7 +5,7 @@ file,ghost/master/dic_homeurl.txta1522a304945fbcf6e95eb120f68228asize=629date
 file,ghost/master/dic_input.txt2ac375fb2f728233391dba1372199731size=1114date=2012-12-21T00:00:00
 file,ghost/master/dic_menu.txt2bca28e8395df0d1cdbe98d50d60a6cfsize=1411date=2012-12-21T00:00:00
 file,ghost/master/dic_mouse.txtaf777927543cbefbe16d25f0008297b2size=4353date=2012-12-21T00:00:00
-file,ghost/master/dic_randomtalk.txtc7c01da4d73c15c84a5fa24b9407d262size=17702date=2012-12-21T00:00:00
+file,ghost/master/dic_randomtalk.txt18594fc93a45e625d5c1b3805c722b3asize=18555date=2012-12-21T00:00:00
 file,ghost/master/satori.dll1e3a88721efcef3093649b431d8b2565size=712704date=2012-12-21T00:00:00
 file,ghost/master/satori_conf.txt5bc8d7909d6ad56c1be6ae3fafa33a6asize=84date=2012-12-21T00:00:00
 file,ghost/master/satori_license.txt08c2c47b7be6800fb82870c74a9d0cb4size=1355date=2012-12-21T00:00:00
